@@ -1,0 +1,9 @@
+{
+  "nome": "fabef-erp-backend",
+  "versão": "1.0.0",
+  "privado": verdadeiro,
+  "tipo": "módulo",
+  "dependências": {
+    "firebase-admin": "^12.0.0"
+  }
+}
